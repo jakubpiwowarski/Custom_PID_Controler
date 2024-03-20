@@ -9,3 +9,14 @@ This project involves creating a mathematical model of a DC (direct current) ele
 - Optimize PID controller parameters to achieve stable and efficient regulation.
 - Analyze the system's performance under different operating conditions and motor loads.
 
+## DC Motor 
+![Tekst zastępczy](DC_Motor.png)
+
+## Custom PID 
+![Tekst zastępczy](Custom_PID.png)
+
+## Controler
+![Tekst zastępczy](Controler.png)
+
+## Result
+![Tekst zastępczy](Scope.png)
